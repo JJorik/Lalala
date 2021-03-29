@@ -2,7 +2,7 @@
 Django==2.1.5
 
 # code highlighting
-Pygments==2.3.1
+Pygments==2.7.4
 
 # formatters
 autoflake==1.3
